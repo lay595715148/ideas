@@ -46,7 +46,7 @@
 		* 2.2.3 失去焦点时，如果无输入内容则显示提示信息，否则不变
 		* 2.2.4 用户名输入框变更时，不清空
 		* 2.2.5 输入框中是否有icon小图标，UI设计
-3. <span style=text-decoration:line-through>**身份选择项**</span>
+3. <span style=text-decoration:line-through>**~~身份选择项~~**</span>
 
 		只用于演示
 4. **确认按钮**
